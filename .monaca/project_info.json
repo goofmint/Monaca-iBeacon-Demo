@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "external_plugins": [],
+    "title-ja": "Monaca iBeacon デモ",
+    "title-en": "",
+    "description-ja": "MonacaでiBeaconをテストするデモコードです。プラグインを使っています。\r\n参照URL：http:\/\/blog.asial.co.jp\/1343",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios"
+    ],
+    "name": "generated-1427773150-547f9da97e21935a18796181"
+}
